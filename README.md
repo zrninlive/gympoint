@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Gympoint" title="Gympoint" src="assets/logo.png" width="200px" />
+  <img alt="Gympoint" title="Gympoint" src="assets/img/ logo.png" width="200px" />
 </h1>
 
 <h3 align="center">
@@ -17,8 +17,8 @@
 <p align="center">
   <a href="#bookmark-sobre-o-projeto">Sobre o projeto</a>&nbsp;|&nbsp;
   <a href="#rocket-tecnologias-utilizadas">Técnologias</a>&nbsp;|&nbsp;
-  <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#art-ayout">Layout</a>&nbsp;|&nbsp;
+  <a href="#zap-running">Running</a>&nbsp;|&nbsp;
 </p>
 
 ## :bookmark: Sobre o projeto
