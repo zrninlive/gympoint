@@ -17,26 +17,19 @@
 <p align="center">
   <a href="#bookmark-sobre-o-projeto">Sobre o projeto</a>&nbsp;|&nbsp;
   <a href="#rocket-tecnologias-utilizadas">Técnologias</a>&nbsp;|&nbsp;
-  <a href="#art-ayout">Layout</a>&nbsp;|&nbsp;
-  <a href="#zap-running">Running</a>&nbsp;|&nbsp;
+  <a href="#art-layout">Layout</a>&nbsp;|&nbsp;
+  <a href="#zap-running">Running</a>&nbsp;
 </p>
 
 ## :bookmark: Sobre o projeto
 
 O projeto GymPoint se baseia em um sistema de gestão de academia com os seguintes módulos:
 
-> O Sistema WEB é voltado para a parte admnistrativa da academia, onde poderá cadastrar os alunos, fazer a manutenção dos planos e matriculas e responder todas as questões enviadas pelos alunos via app.
+### Sistema Web
+> É voltado para a parte admnistrativa da academia, onde poderá cadastrar os alunos, fazer a manutenção dos planos e matriculas e responder todas as questões enviadas pelos alunos via app.
 
-- Alunos
-- Planos
-- Matrículas
-- Responder pedidos de auxílio
-
-> APP mobile é voltado interamente aos alunos, que deverão utilizar para fazer os check-ins ao chegarem na academia, manter seus dados atualizados e também poder enviar dúvidas através dos pedidos de auxílios
-
-- Check-ins
-- Criar pedidos de aúxilio
-- Conta do aluno
+### APP mobile
+>  Desenvolvido para os alunos que deverão utilizar para fazer os check-ins ao chegarem na academia, manter seus dados atualizados e também poder enviar dúvidas através dos pedidos de auxílios
 
 ## :rocket: Tecnologias utilizadas
 
